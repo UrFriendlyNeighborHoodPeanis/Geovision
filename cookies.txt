@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.geovision.com.tw	TRUE	/blog/	FALSE	1999999999	wordpress_test_cookie	WP+Cookie+check
+www.geovision.com.tw	TRUE	/	FALSE	1999999999	PHPSESSID	c76q3ubjb6stp8iprvuku1ggr1
+
